@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WesterosFit.Bran">
+    <Position X="12.75" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAABAAAA=</HashCode>
+      <FileName>Bran.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WesterosFit.Brienne">
+    <Position X="5.25" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Brienne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WesterosFit.Grupo">
+    <Position X="3.75" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAFAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Grupo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WesterosFit.Individual">
+    <Position X="14.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAgACAAAAAAAAAAAQ=</HashCode>
+      <FileName>Individual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WesterosFit.Jaime">
+    <Position X="15.75" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAEAAAAAAAAAAAAAAAAAAAAAAAAQABAgAA=</HashCode>
+      <FileName>Jaime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WesterosFit.Membro">
+    <Position X="8.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>wYAEEAAgRQAIgIAAAAMABQIAAMAAAIQAQARQEAFjBBA=</HashCode>
+      <FileName>Membro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WesterosFit.Ned">
+    <Position X="2.25" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAIAAAAAAAQAAAAAAAIAAAAAAAABAAAA=</HashCode>
+      <FileName>Ned.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

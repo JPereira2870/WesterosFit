@@ -1,0 +1,143 @@
+C:\Users\pduar\Google Drive\Faculdade\2º Ano\1º Semestre\DA1\TG\WesterosFit\WesterosFit\obj\Debug\WesterosFit.csprojAssemblyReference.cache
+C:\Users\pduar\Google Drive\Faculdade\2º Ano\1º Semestre\DA1\TG\WesterosFit\WesterosFit\obj\Debug\WesterosFit.Properties.Resources.resources
+C:\Users\pduar\Google Drive\Faculdade\2º Ano\1º Semestre\DA1\TG\WesterosFit\WesterosFit\obj\Debug\WesterosFit.csproj.GenerateResource.cache
+C:\Users\pduar\Google Drive\Faculdade\2º Ano\1º Semestre\DA1\TG\WesterosFit\WesterosFit\obj\Debug\WesterosFit.csproj.CoreCompileInputs.cache
+C:\Users\pduar\Google Drive\Faculdade\2º Ano\1º Semestre\DA1\TG\WesterosFit\WesterosFit\bin\Debug\WesterosFit.exe.config
+C:\Users\pduar\Google Drive\Faculdade\2º Ano\1º Semestre\DA1\TG\WesterosFit\WesterosFit\bin\Debug\WesterosFit.exe
+C:\Users\pduar\Google Drive\Faculdade\2º Ano\1º Semestre\DA1\TG\WesterosFit\WesterosFit\bin\Debug\WesterosFit.pdb
+C:\Users\pduar\Google Drive\Faculdade\2º Ano\1º Semestre\DA1\TG\WesterosFit\WesterosFit\obj\Debug\WesterosFit.exe
+C:\Users\pduar\Google Drive\Faculdade\2º Ano\1º Semestre\DA1\TG\WesterosFit\WesterosFit\obj\Debug\WesterosFit.pdb
+C:\Users\jpgbp\Google Drive\WesterosFit\bin\Debug\WesterosFit.exe.config
+C:\Users\jpgbp\Google Drive\WesterosFit\bin\Debug\WesterosFit.exe
+C:\Users\jpgbp\Google Drive\WesterosFit\bin\Debug\WesterosFit.pdb
+C:\Users\jpgbp\Google Drive\WesterosFit\obj\Debug\WesterosFit.csprojAssemblyReference.cache
+C:\Users\jpgbp\Google Drive\WesterosFit\obj\Debug\WesterosFit.Form1.resources
+C:\Users\jpgbp\Google Drive\WesterosFit\obj\Debug\WesterosFit.Properties.Resources.resources
+C:\Users\jpgbp\Google Drive\WesterosFit\obj\Debug\WesterosFit.csproj.GenerateResource.cache
+C:\Users\jpgbp\Google Drive\WesterosFit\obj\Debug\WesterosFit.csproj.CoreCompileInputs.cache
+C:\Users\jpgbp\Google Drive\WesterosFit\obj\Debug\WesterosFit.exe
+C:\Users\jpgbp\Google Drive\WesterosFit\obj\Debug\WesterosFit.pdb
+C:\Users\pduar\Google Drive\Faculdade\2º Ano\1º Semestre\DA1\TG\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmEscolhaDaClass.resources
+C:\Users\pduar\Google Drive\Faculdade\2º Ano\1º Semestre\DA1\TG\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmJanelaInicial.resources
+C:\Users\jpgbp\Google Drive\WesterosFit\obj\Debug\WesterosFit.frmCriarBrienne.resources
+C:\Users\jpgbp\Google Drive\WesterosFit\obj\Debug\WesterosFit.frmEscolhaDaClass.resources
+C:\Users\jpgbp\Google Drive\WesterosFit\obj\Debug\WesterosFit.frmJanelaInicial.resources
+C:\Users\jpgbp\Google Drive\WesterosFit\obj\Debug\WesterosFit.frmCriarBran.resources
+C:\Users\jpgbp\Google Drive\WesterosFit\obj\Debug\WesterosFit.frmCriarJaime.resources
+C:\Users\jpgbp\Google Drive\WesterosFit\obj\Debug\WesterosFit.frmCriarNed.resources
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\bin\Debug\WesterosFit.exe.config
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\bin\Debug\WesterosFit.exe
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\bin\Debug\WesterosFit.pdb
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\obj\Debug\WesterosFit.csprojAssemblyReference.cache
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\obj\Debug\WesterosFit.frmCriarBran.resources
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\obj\Debug\WesterosFit.frmCriarBrienne.resources
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\obj\Debug\WesterosFit.frmCriarJaime.resources
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\obj\Debug\WesterosFit.frmCriarNed.resources
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\obj\Debug\WesterosFit.frmEscolhaDaClass.resources
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\obj\Debug\WesterosFit.frmJanelaInicial.resources
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\obj\Debug\WesterosFit.Properties.Resources.resources
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\obj\Debug\WesterosFit.csproj.GenerateResource.cache
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\obj\Debug\WesterosFit.csproj.CoreCompileInputs.cache
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\obj\Debug\WesterosFit.exe
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\obj\Debug\WesterosFit.pdb
+C:\Users\jpgbp\Google Drive\WesterosFit\WesterosFit\bin\Debug\WesterosFit.exe.config
+C:\Users\jpgbp\Google Drive\WesterosFit\WesterosFit\bin\Debug\WesterosFit.exe
+C:\Users\jpgbp\Google Drive\WesterosFit\WesterosFit\bin\Debug\WesterosFit.pdb
+C:\Users\jpgbp\Google Drive\WesterosFit\WesterosFit\obj\Debug\WesterosFit.csprojAssemblyReference.cache
+C:\Users\jpgbp\Google Drive\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmEscolhaDaClass.resources
+C:\Users\jpgbp\Google Drive\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmJanelaInicial.resources
+C:\Users\jpgbp\Google Drive\WesterosFit\WesterosFit\obj\Debug\WesterosFit.Properties.Resources.resources
+C:\Users\jpgbp\Google Drive\WesterosFit\WesterosFit\obj\Debug\WesterosFit.csproj.GenerateResource.cache
+C:\Users\jpgbp\Google Drive\WesterosFit\WesterosFit\obj\Debug\WesterosFit.csproj.CoreCompileInputs.cache
+C:\Users\jpgbp\Google Drive\WesterosFit\WesterosFit\obj\Debug\WesterosFit.exe
+C:\Users\jpgbp\Google Drive\WesterosFit\WesterosFit\obj\Debug\WesterosFit.pdb
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\bin\Debug\WesterosFit.exe.config
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\bin\Debug\WesterosFit.exe
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\bin\Debug\WesterosFit.pdb
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\obj\Debug\WesterosFit.csprojAssemblyReference.cache
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\obj\Debug\WesterosFit.frmCriarBran.resources
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\obj\Debug\WesterosFit.frmCriarBrienne.resources
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\obj\Debug\WesterosFit.frmCriarJaime.resources
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\obj\Debug\WesterosFit.frmCriarNed.resources
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\obj\Debug\WesterosFit.frmEscolhaDaClass.resources
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\obj\Debug\WesterosFit.frmJanelaInicial.resources
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\obj\Debug\WesterosFit.Properties.Resources.resources
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\obj\Debug\WesterosFit.csproj.GenerateResource.cache
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\obj\Debug\WesterosFit.csproj.CoreCompileInputs.cache
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\obj\Debug\WesterosFit.exe
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\obj\Debug\WesterosFit.pdb
+C:\Users\jpgbp\Desktop\WesterosFit\bin\Debug\WesterosFit.exe.config
+C:\Users\jpgbp\Desktop\WesterosFit\bin\Debug\WesterosFit.exe
+C:\Users\jpgbp\Desktop\WesterosFit\bin\Debug\WesterosFit.pdb
+C:\Users\jpgbp\Desktop\WesterosFit\obj\Debug\WesterosFit.csprojAssemblyReference.cache
+C:\Users\jpgbp\Desktop\WesterosFit\obj\Debug\WesterosFit.frmConsultarMembro.resources
+C:\Users\jpgbp\Desktop\WesterosFit\obj\Debug\WesterosFit.frmCriarBran.resources
+C:\Users\jpgbp\Desktop\WesterosFit\obj\Debug\WesterosFit.frmCriarBrienne.resources
+C:\Users\jpgbp\Desktop\WesterosFit\obj\Debug\WesterosFit.frmCriarJaime.resources
+C:\Users\jpgbp\Desktop\WesterosFit\obj\Debug\WesterosFit.frmCriarNed.resources
+C:\Users\jpgbp\Desktop\WesterosFit\obj\Debug\WesterosFit.frmEscolhaDaClass.resources
+C:\Users\jpgbp\Desktop\WesterosFit\obj\Debug\WesterosFit.frmJanelaInicial.resources
+C:\Users\jpgbp\Desktop\WesterosFit\obj\Debug\WesterosFit.Properties.Resources.resources
+C:\Users\jpgbp\Desktop\WesterosFit\obj\Debug\WesterosFit.csproj.GenerateResource.cache
+C:\Users\jpgbp\Desktop\WesterosFit\obj\Debug\WesterosFit.csproj.CoreCompileInputs.cache
+C:\Users\jpgbp\Desktop\WesterosFit\obj\Debug\WesterosFit.exe
+C:\Users\jpgbp\Desktop\WesterosFit\obj\Debug\WesterosFit.pdb
+C:\Users\pduar\Downloads\WesterosFit\WesterosFit\bin\Debug\WesterosFit.exe.config
+C:\Users\pduar\Downloads\WesterosFit\WesterosFit\bin\Debug\WesterosFit.exe
+C:\Users\pduar\Downloads\WesterosFit\WesterosFit\bin\Debug\WesterosFit.pdb
+C:\Users\pduar\Downloads\WesterosFit\WesterosFit\obj\Debug\WesterosFit.csprojAssemblyReference.cache
+C:\Users\pduar\Downloads\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmEscolhaDaClass.resources
+C:\Users\pduar\Downloads\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmJanelaInicial.resources
+C:\Users\pduar\Downloads\WesterosFit\WesterosFit\obj\Debug\WesterosFit.Properties.Resources.resources
+C:\Users\pduar\Downloads\WesterosFit\WesterosFit\obj\Debug\WesterosFit.csproj.GenerateResource.cache
+C:\Users\pduar\Downloads\WesterosFit\WesterosFit\obj\Debug\WesterosFit.csproj.CoreCompileInputs.cache
+C:\Users\pduar\Downloads\WesterosFit\WesterosFit\obj\Debug\WesterosFit.exe
+C:\Users\pduar\Downloads\WesterosFit\WesterosFit\obj\Debug\WesterosFit.pdb
+C:\Users\pduar\Downloads\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmLogin.resources
+C:\Users\pduar\Google Drive\Faculdade\2º Ano\1º Semestre\DA1\TG\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmLogin.resources
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\obj\Debug\WesterosFit.frmConsultarMembro.resources
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\obj\Debug\WesterosFit.frmLogin.resources
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\bin\Debug\WesterosFit.exe.config
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\bin\Debug\WesterosFit.exe
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\bin\Debug\WesterosFit.pdb
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\obj\Debug\WesterosFit.csprojAssemblyReference.cache
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\obj\Debug\WesterosFit.frmConsultarMembro.resources
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\obj\Debug\WesterosFit.frmCriarBran.resources
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\obj\Debug\WesterosFit.frmCriarBrienne.resources
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\obj\Debug\WesterosFit.frmCriarJaime.resources
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\obj\Debug\WesterosFit.frmCriarNed.resources
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\obj\Debug\WesterosFit.frmEscolhaDaClass.resources
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\obj\Debug\WesterosFit.frmJanelaInicial.resources
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\obj\Debug\WesterosFit.frmLogin.resources
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\obj\Debug\WesterosFit.Properties.Resources.resources
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\obj\Debug\WesterosFit.csproj.GenerateResource.cache
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\obj\Debug\WesterosFit.csproj.CoreCompileInputs.cache
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\obj\Debug\WesterosFit.exe
+C:\Users\jpgbp\Google Drive\Atualizado mas em teste fdd\WesterosFit\obj\Debug\WesterosFit.pdb
+C:\Users\jpgbp\Google Drive\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmLogin.resources
+C:\Users\jpgbp\Desktop\GYM\WesterosFit\obj\Debug\WesterosFit.frmEditarMembro.resources
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\bin\Debug\WesterosFit.exe.config
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\bin\Debug\WesterosFit.exe
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\bin\Debug\WesterosFit.pdb
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\obj\Debug\WesterosFit.csprojAssemblyReference.cache
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmCriarBran.resources
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmCriarBrienne.resources
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmCriarJaime.resources
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmCriarNed.resources
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmEscolhaDaClass.resources
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmJanelaInicial.resources
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmLogin.resources
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\obj\Debug\WesterosFit.Properties.Resources.resources
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\obj\Debug\WesterosFit.csproj.GenerateResource.cache
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\obj\Debug\WesterosFit.csproj.CoreCompileInputs.cache
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\obj\Debug\WesterosFit.exe
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\obj\Debug\WesterosFit.pdb
+C:\Users\jpgbp\Google Drive\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmConsultarEditarMembro.resources
+C:\Users\pduar\Google Drive\Faculdade\2º Ano\1º Semestre\DA1\TG\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmConsultarEditarMembro.resources
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\obj\Debug\WesterosFit.frmConsultarEditarMembro.resources
+C:\Users\jpgbp\Google Drive\WesterosFit (1)\WesterosFit\obj\Debug\WesterosFit.frmLogin.resources
+C:\Users\pduar\Downloads\BACKUP\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmConsultarEditarMembro.resources
+C:\Users\pduar\Google Drive\Faculdade\2º Ano\1º Semestre\DA1\TG\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmCriarMembro.resources
+C:\Users\jpgbp\Google Drive\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmCriarMembro.resources
+C:\Users\pduar\Downloads\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmConsultarEditarMembro.resources
+C:\Users\pduar\Downloads\WesterosFit\WesterosFit\obj\Debug\WesterosFit.frmCriarMembro.resources
